@@ -7,7 +7,7 @@ Minimal API com Autenticação e Autorização usando ASP.NET Core Identity com 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ## Sobre o projeto
-Este projeto mostra como trabalhar com autenticação e autorização ASP.NET Core Identity em uma minimal API.
+Este projeto mostra como trabalhar com autenticação e autorização usando ASP.NET Core Identity em uma minimal API.
 
 O ASP.NET Core Identity é um sistema de gerenciamento de identidade e autenticação que faz parte do ASP.NET Core. Ele oferece uma maneira completa e configurável de lidar com autenticação, autorização e gerenciamento de usuários em aplicativos web.
 
